@@ -1,0 +1,17 @@
+{
+  "name": "crud-router-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nick-Major/crud-router-backend.git",
+  "author": "Nick-Major <divanchik26@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
